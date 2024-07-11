@@ -1,0 +1,7 @@
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\obj\Debug\Bullshit_in_bullshit_out.csproj.AssemblyReference.cache
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\obj\Debug\Bullshit_in_bullshit_out.csproj.CoreCompileInputs.cache
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\bin\Debug\Bullshit_in_bullshit_out.exe.config
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\bin\Debug\Bullshit_in_bullshit_out.exe
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\bin\Debug\Bullshit_in_bullshit_out.pdb
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\obj\Debug\Bullshit_in_bullshit_out.exe
+C:\Users\throw\source\repos\Bullshit_in_bullshit_out\Bullshit_in_bullshit_out\obj\Debug\Bullshit_in_bullshit_out.pdb
